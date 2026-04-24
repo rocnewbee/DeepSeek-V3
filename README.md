@@ -7,11 +7,11 @@
 </div>
 <hr>
 <div align="center" style="line-height: 1;">
-  <a href="https://www.deepseek.com/"><img alt="Homepage"
+  <a href="https://www.deepseekfr.org/"><img alt="Homepage"
     src="https://github.com/deepseek-ai/DeepSeek-V2/blob/main/figures/badge.svg?raw=true"/></a>
-  <a href="https://chat.deepseek.com/"><img alt="Chat"
+  <a href="https://deepseekfr.org/"><img alt="Chat"
     src="https://img.shields.io/badge/🤖%20Chat-DeepSeek%20V3-536af5?color=536af5&logoColor=white"/></a>
-  <a href="https://huggingface.co/deepseek-ai"><img alt="Hugging Face"
+  <a href="https://huggingface.co/Rooc/DeepSeek-V4-Flash"><img alt="Hugging Face"
     src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-DeepSeek%20AI-ffc107?color=ffc107&logoColor=white"/></a>
   <br>
   <a href="https://discord.gg/Tc7c45Zzu5"><img alt="Discord"
